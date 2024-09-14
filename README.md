@@ -6,19 +6,19 @@
 
 。Change `Setup.cpp` Content From
 
-    ```cpp
-    #ifndef LOCAL
-    opt;
-    #endif
-    ```
+```cpp
+#ifndef LOCAL
+opt;
+#endif
+```
 
 into 
 
-    ```cpp
-    #ifdef LOCAL
-    opt;
-    #endif
-    ```
+```cpp
+#ifdef LOCAL
+opt;
+#endif
+```
 
 **Initialize C++ Environment**
 

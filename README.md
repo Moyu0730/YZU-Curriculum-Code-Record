@@ -2,6 +2,8 @@
 
 ## 2024.09.14
 
+**Solved** 【Fundamental Computer Programming - C++ Lab（I）】Homework One - p01 ~ p12
+
 **Modify #ifdef and #endif Code**
 
 。Change `Setup.cpp` Content From

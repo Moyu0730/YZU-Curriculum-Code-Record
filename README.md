@@ -1,6 +1,28 @@
 # YZU-Curriculum-Code-Record
 
-## 2024.09.14
+## 2024. 09. 19
+
+**Solved** 【CodingPass】01 - Introduction to C++ Programming - 0101. Odd or Even
+
+**Solved** 【CodingPass】01 - Introduction to C++ Programming - 0102. Digits of Positive Integers
+
+**Solved** 【CodingPass】01 - Introduction to C++ Programming - 0103. Palindromes
+
+**Solved** 【CodingPass】01 - Introduction to C++ Programming - 0104. The Sides of Right Triangles
+
+**Solved** 【CodingPass】01 - Introduction to C++ Programming - 0105. Leap Years
+
+**Solved** 【CodingPass】02 - Loops - 0201. The Sum of the Digits of Positive Integers
+
+**Solved** 【CodingPass】02 - Loops - 0202. Perfect Numbers
+
+**Solved** 【CodingPass】02 - Loops - 0203. Amicable Pairs
+
+**Solved** 【CodingPass】02 - Loops - 0204. Armstrong Numbers
+
+**Solved** 【CodingPass】02 - Loops - 0205. Coprime Integers
+
+## 2024. 09. 14
 
 **Solved** 【Fundamental Computer Programming - C++ Lab（I）】Homework One - p01 ~ p12
 

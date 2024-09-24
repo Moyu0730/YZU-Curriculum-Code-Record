@@ -1,5 +1,19 @@
 # YZU-Curriculum-Code-Record
 
+## 2024. 09. 24
+
+**Solved** 【CodingPass】03 - 0303. Polynomial Division 1
+
+**Solved** 【CodingPass】03 - Functions - 0302. Polynomial Multiplication 1
+
+**Solved** 【CodingPass】03 - Functions - 0301. Polynomial Addition 1
+
+**Update File Name** - Set.cpp
+
+**Update File Name** - Programming in C++ / Homework 02
+
+**Update File Name** - Programming in C++ / Homework 01
+
 ## 2024. 09. 19
 
 **Solved** 【CodingPass】01 - Introduction to C++ Programming - 0101. Odd or Even

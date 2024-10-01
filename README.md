@@ -1,8 +1,16 @@
 # YZU-Curriculum-Code-Record
 
+## 2024. 10. 01
+
+**Solved** 【CodingPass】04 - Arrays - 0403. Polynomial Division 2
+
+**Solved** 【CodingPass】04 - Arrays - 0402. Polynomial Multiplication 2
+
+**Solved** 【CodingPass】04 - Arrays - 0401. Polynomial Addition 2
+
 ## 2024. 09. 24
 
-**Solved** 【CodingPass】03 - 0303. Polynomial Division 1
+**Solved** 【CodingPass】03 - Functions - 0303. Polynomial Division 1
 
 **Solved** 【CodingPass】03 - Functions - 0302. Polynomial Multiplication 1
 

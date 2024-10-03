@@ -1,5 +1,9 @@
 # YZU-Curriculum-Code-Record
 
+## 2024. 10. 03
+
+**Solved** 【Fundamental Computer Programming - C++ Lab（I）】Homework Two - p01 ~ p12
+
 ## 2024. 10. 01
 
 **Solved** 【CodingPass】04 - Arrays - 0403. Polynomial Division 2

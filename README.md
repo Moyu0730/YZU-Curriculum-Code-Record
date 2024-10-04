@@ -1,5 +1,11 @@
 # YZU-Curriculum-Code-Record
 
+## 2024. 10. 04
+
+**Modify Folder Name** Change Folder form `Homework Two` to `Homework 02`
+
+**Modify Folder Name** Change Folder form `Homework One` to `Homework 01`
+
 ## 2024. 10. 03
 
 **Solved** 【Fundamental Computer Programming - C++ Lab（I）】Homework Two - p01 ~ p12

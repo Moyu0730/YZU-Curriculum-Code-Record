@@ -1,5 +1,17 @@
 # YZU-Curriculum-Code-Record
 
+## 2024. 10. 08
+
+**Solved** 【CodingPass】05 - Recursive Functions - 0501. Prime Numbers
+
+**Solved** 【CodingPass】05 - Recursive Functions - 0502. The Summation of Even Integers
+
+**Solved** 【CodingPass】05 - Recursive Functions - 0503. Palindromes
+
+**Solved** 【CodingPass】05 - Recursive Functions - 0504. Perfect Numbers
+
+**Solved** 【CodingPass】05 - Recursive Functions - 0505. Armstrong Numbers
+
 ## 2024. 10. 04
 
 **Modify Folder Name** Change Folder form `Homework Two` to `Homework 02`

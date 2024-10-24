@@ -1,5 +1,13 @@
 # YZU-Curriculum-Code-Record
 
+## 2024. 10. 24
+
+**Solved** 【CodingPass】06 - Pointers - 0601. Polynomial Addition 4
+
+**Solved** 【CodingPass】06 - Pointers - 0602. Polynomial Multiplication 4
+
+**Solved** 【CodingPass】06 - Pointers - 0603. Polynomial Division 4
+
 ## 2024. 10. 08
 
 **Solved** 【CodingPass】05 - Recursive Functions - 0501. Prime Numbers

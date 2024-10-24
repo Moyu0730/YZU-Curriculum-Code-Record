@@ -8,6 +8,8 @@
 
 **Solved** 【CodingPass】06 - Pointers - 0603. Polynomial Division 4
 
+**Solved** 【Fundamental Computer Programming - C++ Lab（I）】Homework Three - p01 ~ p20
+
 ## 2024. 10. 08
 
 **Solved** 【CodingPass】05 - Recursive Functions - 0501. Prime Numbers

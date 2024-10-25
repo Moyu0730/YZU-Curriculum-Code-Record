@@ -1,5 +1,11 @@
 # YZU-Curriculum-Code-Record
 
+## 2024. 10. 25
+
+**Remove ifdef opt**
+
+**Add opt**
+
 ## 2024. 10. 24
 
 **Solved** 【CodingPass】06 - Pointers - 0601. Polynomial Addition 4

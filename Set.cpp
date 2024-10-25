@@ -20,7 +20,4 @@ const int Mod = 1e9 + 7;
 const int INF = 1e9;
 
 signed main(){
-    #ifdef LOCAL
-        opt;
-    #endif
 }

@@ -1,5 +1,9 @@
 # YZU-Curriculum-Code-Record
 
+## 2024. 11. 01
+
+**Solved** 【Fundamental Computer Programming - C++ Lab（I）】Homework Four - p01 ~ p08
+
 ## 2024. 10. 25
 
 **Remove ifdef opt**

@@ -1,5 +1,9 @@
 # YZU-Curriculum-Code-Record
 
+## 2024. 11. 07
+
+**Modify Folder Name** 【CodingPass】06 - Pointers
+
 ## 2024. 11. 01
 
 **Solved** 【Fundamental Computer Programming - C++ Lab（I）】Homework Four - p01 ~ p08

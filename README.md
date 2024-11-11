@@ -1,5 +1,9 @@
 # YZU-Curriculum-Code-Record
 
+## 2024. 11. 11
+
+**Solved** 【CodingPass】07 - Structures
+
 ## 2024. 11. 07
 
 **Modify Folder Name** 【CodingPass】06 - Pointers

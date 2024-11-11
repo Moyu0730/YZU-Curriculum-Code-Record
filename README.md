@@ -2,6 +2,8 @@
 
 ## 2024. 11. 11
 
+**Solved** 【CodingPass】08 - Introduciton to Classes
+
 **Solved** 【CodingPass】07 - Structures
 
 ## 2024. 11. 07

@@ -1,5 +1,9 @@
 # YZU-Curriculum-Code-Record
 
+## 2024. 11. 15
+
+**Solved** 【CodingPass】09 - Introduciton to Vector
+
 ## 2024. 11. 11
 
 **Solved** 【CodingPass】08 - Introduciton to Classes

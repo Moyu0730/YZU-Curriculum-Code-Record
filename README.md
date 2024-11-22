@@ -1,5 +1,9 @@
 # YZU-Curriculum-Code-Record
 
+## 2024. 11. 22
+
+**Solved** 【Fundamental Computer Programming - C++ Lab（I）】Homework Four - p01 ~ p12
+
 ## 2024. 11. 15
 
 **Solved** 【CodingPass】09 - Introduciton to Vector

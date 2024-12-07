@@ -1,5 +1,9 @@
 # YZU-Curriculum-Code-Record
 
+## 2024. 12. 07
+
+**Solved** 【CodingPass】11 - Binary Files
+
 ## 2024. 11. 30
 
 **Solved** 【CodingPass】10 - Text Files

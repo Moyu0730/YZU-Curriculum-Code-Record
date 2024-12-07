@@ -4,13 +4,15 @@
 
 **Solved** 【CodingPass】11 - Binary Files
 
+**Solved** 【Fundamental Computer Programming - C++ Lab（I）】Homework Six - p01 ~ p12
+
 ## 2024. 11. 30
 
 **Solved** 【CodingPass】10 - Text Files
 
 ## 2024. 11. 22
 
-**Solved** 【Fundamental Computer Programming - C++ Lab（I）】Homework Four - p01 ~ p12
+**Solved** 【Fundamental Computer Programming - C++ Lab（I）】Homework Five - p01 ~ p12
 
 ## 2024. 11. 15
 

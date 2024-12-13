@@ -1,5 +1,9 @@
 # YZU-Curriculum-Code-Record
 
+## 2024. 12. 13
+
+**Solved** 【Fundamental Computer Programming - C++ Lab（I）】Homework Seven - p01 ~ p07
+
 ## 2024. 12. 07
 
 **Solved** 【CodingPass】11 - Binary Files

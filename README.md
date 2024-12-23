@@ -1,5 +1,9 @@
 # YZU-Curriculum-Code-Record
 
+## 2024. 12. 23
+
+**Solved** 【Programming in C++】Homework 13
+
 ## 2024. 12. 13
 
 **Solved** 【Fundamental Computer Programming - C++ Lab（I）】Homework Seven - p01 ~ p07

@@ -2,6 +2,8 @@
 
 ## 2024. 12. 23
 
+**Solved** 【Programming in C++】Homework 12
+
 **Solved** 【Programming in C++】Homework 13
 
 ## 2024. 12. 13

@@ -1,5 +1,9 @@
 # YZU-Curriculum-Code-Record
 
+## 2025. 02. 23
+
+**Solved** 【113-2 / Programming in C++】Homework 01
+
 ## 2024. 12. 23
 
 **Add File** 【Programming in C++】Homework 10

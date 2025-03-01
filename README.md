@@ -1,5 +1,9 @@
 # YZU-Curriculum-Code-Record
 
+## 2025. 03. 02
+
+**Solved** 【113-2 / Programming in C++】Homework 02
+
 ## 2025. 02. 26
 
 **Update Class Work** 【113-2 / Website Practical Design】Ch03、Ch04

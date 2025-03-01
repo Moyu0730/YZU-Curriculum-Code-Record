@@ -1,0 +1,6 @@
+﻿  string 2-3 - 1131525 - hw2.cpp
+C:\Users\aslan\Desktop\YZU Related\Curriculum\Code Record\113-2\Programming in C++\Homework 02\Problem 03\Problem 03\string 2-3 - 1131525 - hw2.cpp(56,15): warning C4244: '正在初始化': 將 '__int64' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\aslan\Desktop\YZU Related\Curriculum\Code Record\113-2\Programming in C++\Homework 02\Problem 03\Problem 03\string 2-3 - 1131525 - hw2.cpp(87,22): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\aslan\Desktop\YZU Related\Curriculum\Code Record\113-2\Programming in C++\Homework 02\Problem 03\Problem 03\string 2-3 - 1131525 - hw2.cpp(107,16): warning C4244: '正在初始化': 將 '__int64' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\aslan\Desktop\YZU Related\Curriculum\Code Record\113-2\Programming in C++\Homework 02\Problem 03\Problem 03\string 2-3 - 1131525 - hw2.cpp(128,19): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+  Problem 03.vcxproj -> C:\Users\aslan\Desktop\YZU Related\Curriculum\Code Record\113-2\Programming in C++\Homework 02\Problem 03\x64\Debug\Problem 03.exe

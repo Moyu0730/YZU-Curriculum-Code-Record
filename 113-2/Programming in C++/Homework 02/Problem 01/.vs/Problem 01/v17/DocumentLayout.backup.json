@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\aslan\\Desktop\\YZU Related\\Curriculum\\Code Record\\113-2\\Programming in C\u002B\u002B\\Homework 02\\Problem 01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ADA793A9-ACEF-40DD-8F0D-C6155DC64864}|Problem 01\\Problem 01.vcxproj|C:\\Users\\aslan\\Desktop\\YZU Related\\Curriculum\\Code Record\\113-2\\Programming in C\u002B\u002B\\Homework 02\\Problem 01\\Problem 01\\string 2-1 - s1131525 - hw2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{ADA793A9-ACEF-40DD-8F0D-C6155DC64864}|Problem 01\\Problem 01.vcxproj|solutionrelative:Problem 01\\string 2-1 - s1131525 - hw2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{ADA793A9-ACEF-40DD-8F0D-C6155DC64864}|Problem 01\\Problem 01.vcxproj|C:\\Users\\aslan\\Desktop\\YZU Related\\Curriculum\\Code Record\\113-2\\Programming in C\u002B\u002B\\Homework 02\\Problem 01\\Problem 01\\Assignment 2-1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{ADA793A9-ACEF-40DD-8F0D-C6155DC64864}|Problem 01\\Problem 01.vcxproj|solutionrelative:Problem 01\\Assignment 2-1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -23,27 +19,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "string 2-1 - s1131525 - hw2.cpp",
-              "DocumentMoniker": "C:\\Users\\aslan\\Desktop\\YZU Related\\Curriculum\\Code Record\\113-2\\Programming in C\u002B\u002B\\Homework 02\\Problem 01\\Problem 01\\string 2-1 - s1131525 - hw2.cpp",
-              "RelativeDocumentMoniker": "Problem 01\\string 2-1 - s1131525 - hw2.cpp",
-              "ToolTip": "C:\\Users\\aslan\\Desktop\\YZU Related\\Curriculum\\Code Record\\113-2\\Programming in C\u002B\u002B\\Homework 02\\Problem 01\\Problem 01\\string 2-1 - s1131525 - hw2.cpp",
-              "RelativeToolTip": "Problem 01\\string 2-1 - s1131525 - hw2.cpp",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAABwAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-01T14:50:04.315Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Assignment 2-1.cpp",
               "DocumentMoniker": "C:\\Users\\aslan\\Desktop\\YZU Related\\Curriculum\\Code Record\\113-2\\Programming in C\u002B\u002B\\Homework 02\\Problem 01\\Problem 01\\Assignment 2-1.cpp",
               "RelativeDocumentMoniker": "Problem 01\\Assignment 2-1.cpp",
               "ToolTip": "C:\\Users\\aslan\\Desktop\\YZU Related\\Curriculum\\Code Record\\113-2\\Programming in C\u002B\u002B\\Homework 02\\Problem 01\\Problem 01\\Assignment 2-1.cpp",
               "RelativeToolTip": "Problem 01\\Assignment 2-1.cpp",
-              "ViewState": "AgIAAJ0AAAAAAAAAAAAcwMAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAcwKQAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-01T14:49:43.855Z"
+              "WhenOpened": "2025-03-01T14:49:43.855Z",
+              "EditorCaption": ""
             }
           ]
         }

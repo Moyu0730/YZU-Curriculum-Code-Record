@@ -1,5 +1,9 @@
 # YZU-Curriculum-Code-Record
 
+## 2025. 03. 05
+
+**Update Copilot**
+
 ## 2025. 03. 02
 
 **Solved** 【113-2 / Programming in C++】Homework 02

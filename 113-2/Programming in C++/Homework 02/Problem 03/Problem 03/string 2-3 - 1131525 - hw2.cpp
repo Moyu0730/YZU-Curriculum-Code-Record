@@ -84,7 +84,7 @@ string::iterator string::insert( const_iterator where, const char ch )
       }
       else
       {
-          for (size_type i = mySize - 1; i >= idx; --i) {
+          for (int i = mySize - 1; i >= idx; --i) {
               myPtr()[i+1] = myPtr()[i];
           }
 

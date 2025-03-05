@@ -6,6 +6,22 @@
 
 **Class Work Finished** - 【113-2 / Website Practical Design】Ch05. Date and Time Application`
 
+**Correct Code**
+
+* Features
+    From
+    ```cpp
+    for (size_type i = mySize - 1; i >= idx; --i) {
+        myPtr()[i+1] = myPtr()[i];
+    }
+    ```
+    To
+    ```cpp
+    for (int i = mySize - 1; i >= idx; --i) {
+        myPtr()[i+1] = myPtr()[i];
+    }
+    ```
+
 ## 2025. 03. 02
 
 **Solved** 【113-2 / Programming in C++】Homework 02

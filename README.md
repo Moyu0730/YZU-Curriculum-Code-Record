@@ -4,6 +4,8 @@
 
 **Update Copilot**
 
+**Class Work Finished** - 【113-2 / Website Practical Design】Ch05. Date and Time Application`
+
 ## 2025. 03. 02
 
 **Solved** 【113-2 / Programming in C++】Homework 02

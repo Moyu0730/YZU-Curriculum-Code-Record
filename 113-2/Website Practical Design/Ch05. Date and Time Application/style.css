@@ -1,0 +1,12 @@
+body {
+   text-align: center; 
+}
+
+table {
+    width: 60%;
+    margin: auto;
+}
+
+th, td {
+    border-bottom: 1px solid blue;
+}

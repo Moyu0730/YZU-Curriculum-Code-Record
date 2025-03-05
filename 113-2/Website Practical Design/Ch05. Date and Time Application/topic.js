@@ -49,7 +49,7 @@ document.addEventListener('DOMContentLoaded', function() {
             const tdTopic = document.createElement('td');
 
             const currentDate = new Date(startDate);
-            currentDate.setDate(startDate.getDate() + i);
+            currentDate.setDate(startDate.getDate() + i * 7);
 
             tdSession.textContent = i + 1;
             tdDate.textContent = currentDate.toLocaleDateString('en-US', { month: 'numeric', day: 'numeric' });

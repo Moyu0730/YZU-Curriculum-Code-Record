@@ -2,25 +2,43 @@
 
 ## 2025. 03. 05
 
-**Update Copilot**
-
-**Class Work Finished** - 【113-2 / Website Practical Design】Ch05. Date and Time Application`
-
-**Correct Code**
+**Correct Website Practical Design / Ch05. Date and Time Application / topic.js Code**
 
 * Features
     From
-    ```cpp
-    for (size_type i = mySize - 1; i >= idx; --i) {
-        myPtr()[i+1] = myPtr()[i];
-    }
-    ```
+
+        ```cpp
+        currentDate.setDate(startDate.getDate() + i);
+        ```
+    
     To
-    ```cpp
-    for (int i = mySize - 1; i >= idx; --i) {
-        myPtr()[i+1] = myPtr()[i];
-    }
-    ```
+    
+        ```cpp
+        currentDate.setDate(startDate.getDate() + i * 7);
+        ```
+
+**Update Copilot**
+
+**Class Work Finished** - 【113-2 / Website Practical Design】Ch05. Date and Time Application
+
+**Correct Programming in C++ / Homework 02 - 3 Code**
+
+* Features
+    From
+
+        ```cpp
+        for (size_type i = mySize - 1; i >= idx; --i) {
+            myPtr()[i+1] = myPtr()[i];
+        }
+        ```
+    
+    To
+    
+        ```cpp
+        for (int i = mySize - 1; i >= idx; --i) {
+            myPtr()[i+1] = myPtr()[i];
+        }
+        ```
 
 ## 2025. 03. 02
 

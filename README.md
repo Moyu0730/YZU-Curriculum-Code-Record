@@ -2,7 +2,7 @@
 
 ## 2025. 03. 12
 
-**Class Work Finished** - 【113-2 / Website Practical Design】Ch05. Date and Time Application
+**Class Work Finished** - 【113-2 / Website Practical Design】Ch06. Psychological Tests
 
 ## 2025. 03. 09
 

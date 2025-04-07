@@ -1,5 +1,13 @@
 # YZU-Curriculum-Code-Record
 
+## 2025. 04. 07
+
+**Update** 【113-2 / Programming in C++】Homework 05、06
+
+**Update** 【113-2 / Website Practical Design】Ch07. Psychological Tests - Python Version
+
+**Update** 【113-2 / Website Practical Design】Virtual Envs
+
 ## 2025. 03. 16
 
 **Solved** 【113-2 / Programming in C++】Homework 04

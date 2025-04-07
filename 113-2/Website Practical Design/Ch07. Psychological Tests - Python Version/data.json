@@ -1,0 +1,82 @@
+[
+    {
+        "question": "Are you very optimistic about this year now？",
+        "answers": [
+            ["Yes", 2],
+            ["Nope", 3],
+            ["I Don't Know", 4]
+        ]
+    },
+    {
+        "question": "Do you feel that you are becoming less and less reliable？",
+        "answers": [
+            ["Yes", 3],
+            ["Nope", 4],
+            ["Normal", 5]
+        ]
+    },
+    {
+        "question": "Do you feel happy when you think about the new year coming？",
+        "answers": [
+            ["Yes", 4],
+            ["Nope", 5],
+            ["Normal", 6]
+        ]
+    },
+    {
+        "question": "If I give you five million and ask you to leave your beloved lover, would you do it？",
+        "answers": [
+            ["Yes", 5],
+            ["It Will be All Right", 6],
+            ["Nope", 7]
+        ]
+    },
+    {
+        "question": "Have you been hit hard in the past year？",
+        "answers": [
+            ["Yes", 6],
+            ["Nope", 7],
+            ["Still Enduring It", 8]
+        ]
+    },
+    {
+        "question": "Which of the following words to describe the weather do you like？",
+        "answers": [
+            ["Beautiful Weather", 7],
+            ["The Sun is Shining", 8],
+            ["Refreshing Autumn Weather", "A"]
+        ]
+    },
+    {
+        "question": "Do you think your love has always been unusual？",
+        "answers": [
+            ["Yes", 8],
+            ["Nope", 9],
+            ["I Don't Know", 10]
+        ]
+    },
+    {
+        "question": "Where would you like to travel with your lover？",
+        "answers": [
+            ["The Blue Coast", 9],
+            ["Mountain, Forest and Lake", "A"],
+            ["Historical Town", "B"]
+        ]
+    },
+    {
+        "question": "Besides love, what do you hope to achieve this year？",
+        "answers": [
+            ["Buy A House", "C"],
+            ["Job Promotion", "D"],
+            ["Become Handsome and Beautiful", "A"]
+        ]
+    },
+    {
+        "question": "Which of the following drinks would you like to win？",
+        "answers": [
+            ["Another Bottle of Yogurt", "B"],
+            ["Another Bottle of Beer", "C"],
+            ["Another Bottle of Black Tea", "D"]
+        ]
+    }
+]

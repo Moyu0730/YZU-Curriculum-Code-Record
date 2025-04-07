@@ -1,0 +1,41 @@
+﻿  Assignment 5-1.cpp
+  Assignment 5-2.cpp
+C:\Users\aslan\Desktop\YZU Related\Curriculum\Code Record\113-2\Programming in C++\Homework 05\Homework 05\Polynomial - 1131525 - hw5-2.h(209,35): warning C4244: 'return': 將 'const T' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\aslan\Desktop\YZU Related\Curriculum\Code Record\113-2\Programming in C++\Homework 05\Homework 05\Polynomial - 1131525 - hw5-2.h(209,35): warning C4244:         with
+C:\Users\aslan\Desktop\YZU Related\Curriculum\Code Record\113-2\Programming in C++\Homework 05\Homework 05\Polynomial - 1131525 - hw5-2.h(209,35): warning C4244:         [
+C:\Users\aslan\Desktop\YZU Related\Curriculum\Code Record\113-2\Programming in C++\Homework 05\Homework 05\Polynomial - 1131525 - hw5-2.h(209,35): warning C4244:             T=__int64
+C:\Users\aslan\Desktop\YZU Related\Curriculum\Code Record\113-2\Programming in C++\Homework 05\Homework 05\Polynomial - 1131525 - hw5-2.h(209,35): warning C4244:         ]
+  (編譯來源檔案 'Assignment%205-2.cpp')
+      C:\Users\aslan\Desktop\YZU Related\Curriculum\Code Record\113-2\Programming in C++\Homework 05\Homework 05\Polynomial - 1131525 - hw5-2.h(209,35):
+      範本具現化內容 (首先是最舊的) 是
+          C:\Users\aslan\Desktop\YZU Related\Curriculum\Code Record\113-2\Programming in C++\Homework 05\Homework 05\Assignment 5-2.cpp(24,4):
+          請參考正在進行編譯的函式 樣板 具現化 'void testPolynomial<__int64>(void)'
+          C:\Users\aslan\Desktop\YZU Related\Curriculum\Code Record\113-2\Programming in C++\Homework 05\Homework 05\Assignment 5-2.cpp(59,44):
+          請參考正在進行編譯的 類別 樣板 具現化 'Polynomial<vector<Term<__int64>>,__int64>'
+          C:\Users\aslan\Desktop\YZU Related\Curriculum\Code Record\113-2\Programming in C++\Homework 05\Homework 05\Polynomial - 1131525 - hw5-2.h(204,8):
+          編譯 類別 樣板 成員函式 'int Polynomial<vector<Term<__int64>>,__int64>::degree(void) const' 期間
+              C:\Users\aslan\Desktop\YZU Related\Curriculum\Code Record\113-2\Programming in C++\Homework 05\Homework 05\Polynomial - 1131525 - hw5-2.h(144,31):
+              請參閱 'Polynomial<vector<Term<__int64>>,__int64>::compSquareRoot' 中 'Polynomial<vector<Term<__int64>>,__int64>::degree' 的第一個參考
+              C:\Users\aslan\Desktop\YZU Related\Curriculum\Code Record\113-2\Programming in C++\Homework 05\Homework 05\Assignment 5-2.cpp(63,55):
+              請參閱 'testPolynomial' 中 'Polynomial<vector<Term<__int64>>,__int64>::compSquareRoot' 的第一個參考
+  
+C:\Users\aslan\Desktop\YZU Related\Curriculum\Code Record\113-2\Programming in C++\Homework 05\Homework 05\vector - 1131525 - hw5.h(135,22): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+  (編譯來源檔案 'Assignment%205-2.cpp')
+      C:\Users\aslan\Desktop\YZU Related\Curriculum\Code Record\113-2\Programming in C++\Homework 05\Homework 05\vector - 1131525 - hw5.h(135,22):
+      範本具現化內容 (首先是最舊的) 是
+          C:\Users\aslan\Desktop\YZU Related\Curriculum\Code Record\113-2\Programming in C++\Homework 05\Homework 05\Polynomial - 1131525 - hw5-2.h(171,7):
+          請參考正在進行編譯的 類別 樣板 具現化 'vector<Term<__int64>>'
+          C:\Users\aslan\Desktop\YZU Related\Curriculum\Code Record\113-2\Programming in C++\Homework 05\Homework 05\vector - 1131525 - hw5.h(109,13):
+          編譯 類別 樣板 成員函式 'Term<__int64> *vector<Term<__int64>>::insert(const Term<__int64> *,const Term<__int64> &)' 期間
+              C:\Users\aslan\Desktop\YZU Related\Curriculum\Code Record\113-2\Programming in C++\Homework 05\Homework 05\Polynomial - 1131525 - hw5-2.h(179,24):
+              請參閱 'Polynomial<vector<Term<__int64>>,__int64>::attach' 中 'vector<Term<__int64>>::insert' 的第一個參考
+              C:\Users\aslan\Desktop\YZU Related\Curriculum\Code Record\113-2\Programming in C++\Homework 05\Homework 05\Polynomial - 1131525 - hw5-2.h(144,31):
+              請參閱 'Polynomial<vector<Term<__int64>>,__int64>::compSquareRoot' 中 'Polynomial<vector<Term<__int64>>,__int64>::attach' 的第一個參考
+              C:\Users\aslan\Desktop\YZU Related\Curriculum\Code Record\113-2\Programming in C++\Homework 05\Homework 05\Assignment 5-2.cpp(63,55):
+              請參閱 'testPolynomial' 中 'Polynomial<vector<Term<__int64>>,__int64>::compSquareRoot' 的第一個參考
+  
+  正在產生程式碼...
+C:\Users\aslan\Desktop\YZU Related\Curriculum\Code Record\113-2\Programming in C++\Homework 05\Homework 05\vector - 1131525 - hw5.h(152,1): warning C4715: 'vector<Term<short> >::insert': 不是所有控制路徑都傳回值
+C:\Users\aslan\Desktop\YZU Related\Curriculum\Code Record\113-2\Programming in C++\Homework 05\Homework 05\vector - 1131525 - hw5.h(152,1): warning C4715: 'vector<Term<long> >::insert': 不是所有控制路徑都傳回值
+C:\Users\aslan\Desktop\YZU Related\Curriculum\Code Record\113-2\Programming in C++\Homework 05\Homework 05\vector - 1131525 - hw5.h(152,1): warning C4715: 'vector<Term<__int64> >::insert': 不是所有控制路徑都傳回值
+  Homework 05.vcxproj -> C:\Users\aslan\Desktop\YZU Related\Curriculum\Code Record\113-2\Programming in C++\Homework 05\x64\Debug\Homework 05.exe

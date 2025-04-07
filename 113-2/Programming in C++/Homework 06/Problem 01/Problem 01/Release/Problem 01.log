@@ -1,0 +1,34 @@
+﻿  Assignment 6-1.cpp
+C:\Users\aslan\Desktop\YZU Related\Curriculum\Code Record\113-2\Programming in C++\Homework 06\Problem 01\Problem 01\list 6-1 - 1131525 - hw6.h(102,25): warning C4018: '<': signed/unsigned 不相符
+  (編譯來源檔案 'Assignment%206-1.cpp')
+      C:\Users\aslan\Desktop\YZU Related\Curriculum\Code Record\113-2\Programming in C++\Homework 06\Problem 01\Problem 01\list 6-1 - 1131525 - hw6.h(102,25):
+      範本具現化內容 (首先是最舊的) 是
+          C:\Users\aslan\Desktop\YZU Related\Curriculum\Code Record\113-2\Programming in C++\Homework 06\Problem 01\Problem 01\Assignment 6-1.cpp(29,4):
+          請參考正在進行編譯的函式 樣板 具現化 'void testList<__int64>(void)'
+          C:\Users\aslan\Desktop\YZU Related\Curriculum\Code Record\113-2\Programming in C++\Homework 06\Problem 01\Problem 01\Assignment 6-1.cpp(37,4):
+          請參考正在進行編譯的函式 樣板 具現化 'void testFillConstructor<__int64>(void)'
+          C:\Users\aslan\Desktop\YZU Related\Curriculum\Code Record\113-2\Programming in C++\Homework 06\Problem 01\Problem 01\Assignment 6-1.cpp(56,17):
+          請參考正在進行編譯的 類別 樣板 具現化 'list<__int64>'
+          C:\Users\aslan\Desktop\YZU Related\Curriculum\Code Record\113-2\Programming in C++\Homework 06\Problem 01\Problem 01\list 6-1 - 1131525 - hw6.h(95,4):
+          編譯 類別 樣板 成員函式 'list<__int64>::list(const list<__int64> &)' 期間
+              C:\Users\aslan\Desktop\YZU Related\Curriculum\Code Record\113-2\Programming in C++\Homework 06\Problem 01\Problem 01\Assignment 6-1.cpp(84,22):
+              請參閱 'testCopyConstructor' 中 'list<__int64>::list' 的第一個參考
+              C:\Users\aslan\Desktop\YZU Related\Curriculum\Code Record\113-2\Programming in C++\Homework 06\Problem 01\Problem 01\Assignment 6-1.cpp(38,4):
+              請參閱 'testList' 中 'testCopyConstructor' 的第一個參考
+  
+C:\Users\aslan\Desktop\YZU Related\Curriculum\Code Record\113-2\Programming in C++\Homework 06\Problem 01\Problem 01\list 6-1 - 1131525 - hw6.h(79,25): warning C4018: '<': signed/unsigned 不相符
+  (編譯來源檔案 'Assignment%206-1.cpp')
+      C:\Users\aslan\Desktop\YZU Related\Curriculum\Code Record\113-2\Programming in C++\Homework 06\Problem 01\Problem 01\list 6-1 - 1131525 - hw6.h(79,25):
+      範本具現化內容 (首先是最舊的) 是
+          C:\Users\aslan\Desktop\YZU Related\Curriculum\Code Record\113-2\Programming in C++\Homework 06\Problem 01\Problem 01\list 6-1 - 1131525 - hw6.h(72,4):
+          編譯 類別 樣板 成員函式 'list<__int64>::list(list<__int64>::size_type)' 期間
+              C:\Users\aslan\Desktop\YZU Related\Curriculum\Code Record\113-2\Programming in C++\Homework 06\Problem 01\Problem 01\Assignment 6-1.cpp(56,22):
+              請參閱 'testFillConstructor' 中 'list<__int64>::list' 的第一個參考
+              C:\Users\aslan\Desktop\YZU Related\Curriculum\Code Record\113-2\Programming in C++\Homework 06\Problem 01\Problem 01\Assignment 6-1.cpp(37,4):
+              請參閱 'testList' 中 'testFillConstructor' 的第一個參考
+  
+  正在產生程式碼
+  Previous IPDB not found, fall back to full compilation.
+  All 364 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成程式碼產生
+  Problem 01.vcxproj -> C:\Users\aslan\Desktop\YZU Related\Curriculum\Code Record\113-2\Programming in C++\Homework 06\Problem 01\Release\Problem 01.exe

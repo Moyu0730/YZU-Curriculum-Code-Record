@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <title></title>
+</head>
+<body style="text-align: center;">
+    <h1>What is your love feeling this year ?</h1>
+
+    <form action="/submit" method="post">
+        <div>
+            <h2 id="question">{{question}}</h2>
+            <div id="options">{{options | safe}}</div>
+        </div>
+
+        <input id="startButton" type="submit" value="{{buttonText}}">
+    </form>
+</body>
+</html>

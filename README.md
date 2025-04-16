@@ -1,5 +1,9 @@
 # YZU-Curriculum-Code-Record
 
+## 2025. 04. 16
+
+**Update** 【113-2 / Website Practical Design】Ch07. Simple RPG
+
 ## 2025. 04. 09
 
 **Update Folder Name** 

@@ -2,6 +2,8 @@
 
 ## 2025. 04. 16
 
+**Update** 【113-2 / Website Practical Design】Ch08. Plotly
+
 **Update** 【113-2 / Website Practical Design】Ch07. Simple RPG
 
 ## 2025. 04. 09

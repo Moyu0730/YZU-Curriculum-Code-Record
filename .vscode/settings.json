@@ -77,5 +77,11 @@
         "variant": "cpp"
     },
     "C_Cpp.errorSquiggles": "Disabled",
-    "python.pythonPath": "D:\\python\\python.exe"
+    "python.pythonPath": "D:\\python\\python.exe",
+    "github.copilot.enable": {
+        "*": false,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false
+    }
 }

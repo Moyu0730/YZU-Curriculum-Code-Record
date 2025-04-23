@@ -1,5 +1,9 @@
 # YZU-Curriculum-Code-Record
 
+## 2025. 04. 23
+
+**Update** 【113-2 / Website Practical Design】Ch09. JPY Exchange Rate Real-time Data Visualization - 1
+
 ## 2025. 04. 22
 
 **Update** 【113-2 / Programming in C++】Homework 07

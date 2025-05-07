@@ -13,7 +13,7 @@ def formPage():
     df.drop(df.iloc[:, 2:4], axis=1, inplace=True)
     df.columns = ["date", "usd-twd", "usd-jpy"]
     df["twd-jpy"] = df["usd-twd"] / df["usd-jpy"]
-    df.drop(df.iloc[:, 1:3], axis=1, inplace=True)
+    # df.drop(df.iloc[:, 1:3], axis=1, inplace=True)
     df['date'] = pd.to_datetime(df['date'], format='%Y%m%d')
     df['date'] = df["date"].astype(str)
     result = df.to_json(orient="records")

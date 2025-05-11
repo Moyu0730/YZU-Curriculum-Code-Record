@@ -1,0 +1,19 @@
+﻿  Test Copy Constructor.cpp
+C:\Users\aslan\Desktop\YZU Related\Curriculum\Code Record\113-2\Programming in C++\Homework 08\8-2. Copy Constructor\8-2. Copy Constructor\1131525 - deque - copy constructor.h(359,43): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+  (編譯來源檔案 'Test%20Copy%20Constructor.cpp')
+      C:\Users\aslan\Desktop\YZU Related\Curriculum\Code Record\113-2\Programming in C++\Homework 08\8-2. Copy Constructor\8-2. Copy Constructor\1131525 - deque - copy constructor.h(359,43):
+      範本具現化內容 (首先是最舊的) 是
+          C:\Users\aslan\Desktop\YZU Related\Curriculum\Code Record\113-2\Programming in C++\Homework 08\8-2. Copy Constructor\8-2. Copy Constructor\Test Copy Constructor.cpp(46,4):
+          請參考正在進行編譯的函式 樣板 具現化 'void testCopyConstructor<__int64>(void)'
+          C:\Users\aslan\Desktop\YZU Related\Curriculum\Code Record\113-2\Programming in C++\Homework 08\8-2. Copy Constructor\8-2. Copy Constructor\Test Copy Constructor.cpp(56,4):
+          請參考正在進行編譯的函式 樣板 具現化 'void testCopyConstructor1<__int64>(void)'
+          C:\Users\aslan\Desktop\YZU Related\Curriculum\Code Record\113-2\Programming in C++\Homework 08\8-2. Copy Constructor\8-2. Copy Constructor\Test Copy Constructor.cpp(94,24):
+          請參考正在進行編譯的 類別 樣板 具現化 'deque<__int64>'
+          C:\Users\aslan\Desktop\YZU Related\Curriculum\Code Record\113-2\Programming in C++\Homework 08\8-2. Copy Constructor\8-2. Copy Constructor\1131525 - deque - copy constructor.h(343,4):
+          編譯 類別 樣板 成員函式 'deque<__int64>::deque(const deque<__int64> &)' 期間
+              C:\Users\aslan\Desktop\YZU Related\Curriculum\Code Record\113-2\Programming in C++\Homework 08\8-2. Copy Constructor\8-2. Copy Constructor\Test Copy Constructor.cpp(123,30):
+              請參閱 'testCopyConstructor1' 中 'deque<__int64>::deque' 的第一個參考
+              C:\Users\aslan\Desktop\YZU Related\Curriculum\Code Record\113-2\Programming in C++\Homework 08\8-2. Copy Constructor\8-2. Copy Constructor\Test Copy Constructor.cpp(56,4):
+              請參閱 'testCopyConstructor' 中 'testCopyConstructor1' 的第一個參考
+  
+  8-2. Copy Constructor.vcxproj -> C:\Users\aslan\Desktop\YZU Related\Curriculum\Code Record\113-2\Programming in C++\Homework 08\8-2. Copy Constructor\x64\Debug\8-2. Copy Constructor.exe

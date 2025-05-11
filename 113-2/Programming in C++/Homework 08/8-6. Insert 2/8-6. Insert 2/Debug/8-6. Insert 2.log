@@ -1,0 +1,23 @@
+﻿  Test Insert 2.cpp
+C:\Users\aslan\Desktop\YZU Related\Curriculum\Code Record\113-2\Programming in C++\Homework 08\8-6. Insert 2\8-6. Insert 2\s1131525 - deque - insert.h(477,36): warning C4018: '>=': signed/unsigned 不相符
+  (編譯來源檔案 'Test%20Insert%202.cpp')
+      C:\Users\aslan\Desktop\YZU Related\Curriculum\Code Record\113-2\Programming in C++\Homework 08\8-6. Insert 2\8-6. Insert 2\s1131525 - deque - insert.h(477,36):
+      範本具現化內容 (首先是最舊的) 是
+          C:\Users\aslan\Desktop\YZU Related\Curriculum\Code Record\113-2\Programming in C++\Homework 08\8-6. Insert 2\8-6. Insert 2\Test Insert 2.cpp(35,4):
+          請參考正在進行編譯的函式 樣板 具現化 'void testInsert<__int64>(void)'
+          C:\Users\aslan\Desktop\YZU Related\Curriculum\Code Record\113-2\Programming in C++\Homework 08\8-6. Insert 2\8-6. Insert 2\Test Insert 2.cpp(43,4):
+          請參考正在進行編譯的函式 樣板 具現化 'void testInsert1<__int64>(void)'
+          C:\Users\aslan\Desktop\YZU Related\Curriculum\Code Record\113-2\Programming in C++\Homework 08\8-6. Insert 2\8-6. Insert 2\Test Insert 2.cpp(74,27):
+          請參考正在進行編譯的 類別 樣板 具現化 'deque<__int64>'
+          C:\Users\aslan\Desktop\YZU Related\Curriculum\Code Record\113-2\Programming in C++\Homework 08\8-6. Insert 2\8-6. Insert 2\s1131525 - deque - insert.h(403,13):
+          編譯 類別 樣板 成員函式 'DequeIterator<DequeVal<Ty>> deque<Ty>::insert(DequeConstIterator<DequeVal<Ty>>,const __int64 &)' 期間
+          with
+          [
+              Ty=__int64
+          ]
+              C:\Users\aslan\Desktop\YZU Related\Curriculum\Code Record\113-2\Programming in C++\Homework 08\8-6. Insert 2\8-6. Insert 2\Test Insert 2.cpp(94,29):
+              請參閱 'testInsert1' 中 'deque<__int64>::insert' 的第一個參考
+              C:\Users\aslan\Desktop\YZU Related\Curriculum\Code Record\113-2\Programming in C++\Homework 08\8-6. Insert 2\8-6. Insert 2\Test Insert 2.cpp(43,4):
+              請參閱 'testInsert' 中 'testInsert1' 的第一個參考
+  
+  8-6. Insert 2.vcxproj -> C:\Users\aslan\Desktop\YZU Related\Curriculum\Code Record\113-2\Programming in C++\Homework 08\8-6. Insert 2\Debug\8-6. Insert 2.exe

@@ -1,0 +1,28 @@
+﻿  Test Assignment 2.cpp
+C:\Users\aslan\Desktop\YZU Related\Curriculum\Code Record\113-2\Programming in C++\Homework 08\8-4. Assignment 2\8-4. Assignment 2\1131525 - deque - assignment.h(370,24): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+  (編譯來源檔案 'Test%20Assignment%202.cpp')
+      C:\Users\aslan\Desktop\YZU Related\Curriculum\Code Record\113-2\Programming in C++\Homework 08\8-4. Assignment 2\8-4. Assignment 2\1131525 - deque - assignment.h(370,24):
+      範本具現化內容 (首先是最舊的) 是
+          C:\Users\aslan\Desktop\YZU Related\Curriculum\Code Record\113-2\Programming in C++\Homework 08\8-4. Assignment 2\8-4. Assignment 2\Test Assignment 2.cpp(82,4):
+          請參考正在進行編譯的函式 樣板 具現化 'void testAssignment<__int64>(void)'
+          C:\Users\aslan\Desktop\YZU Related\Curriculum\Code Record\113-2\Programming in C++\Homework 08\8-4. Assignment 2\8-4. Assignment 2\Test Assignment 2.cpp(94,7):
+          請參考正在進行編譯的函式 樣板 具現化 'void testAssignment1<__int64>(void)'
+          C:\Users\aslan\Desktop\YZU Related\Curriculum\Code Record\113-2\Programming in C++\Homework 08\8-4. Assignment 2\8-4. Assignment 2\Test Assignment 2.cpp(144,24):
+          請參考正在進行編譯的 類別 樣板 具現化 'deque<__int64>'
+          C:\Users\aslan\Desktop\YZU Related\Curriculum\Code Record\113-2\Programming in C++\Homework 08\8-4. Assignment 2\8-4. Assignment 2\1131525 - deque - assignment.h(349,11):
+          編譯 類別 樣板 成員函式 'deque<__int64> &deque<__int64>::operator =(const deque<__int64> &)' 期間
+              C:\Users\aslan\Desktop\YZU Related\Curriculum\Code Record\113-2\Programming in C++\Homework 08\8-4. Assignment 2\8-4. Assignment 2\Test Assignment 2.cpp(189,29):
+              請參閱 'testAssignment1' 中 'deque<__int64>::operator =' 的第一個參考
+              C:\Users\aslan\Desktop\YZU Related\Curriculum\Code Record\113-2\Programming in C++\Homework 08\8-4. Assignment 2\8-4. Assignment 2\Test Assignment 2.cpp(94,7):
+              請參閱 'testAssignment' 中 'testAssignment1' 的第一個參考
+  
+C:\Users\aslan\Desktop\YZU Related\Curriculum\Code Record\113-2\Programming in C++\Homework 08\8-4. Assignment 2\8-4. Assignment 2\1131525 - deque - assignment.h(372,32): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+  (編譯來源檔案 'Test%20Assignment%202.cpp')
+  
+C:\Users\aslan\Desktop\YZU Related\Curriculum\Code Record\113-2\Programming in C++\Homework 08\8-4. Assignment 2\8-4. Assignment 2\1131525 - deque - assignment.h(381,29): warning C4267: '+=': 將 'size_t' 轉換為 'int'，資料可能遺失
+  (編譯來源檔案 'Test%20Assignment%202.cpp')
+  
+C:\Users\aslan\Desktop\YZU Related\Curriculum\Code Record\113-2\Programming in C++\Homework 08\8-4. Assignment 2\8-4. Assignment 2\1131525 - deque - assignment.h(395,46): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+  (編譯來源檔案 'Test%20Assignment%202.cpp')
+  
+  8-4. Assignment 2.vcxproj -> C:\Users\aslan\Desktop\YZU Related\Curriculum\Code Record\113-2\Programming in C++\Homework 08\8-4. Assignment 2\x64\Debug\8-4. Assignment 2.exe

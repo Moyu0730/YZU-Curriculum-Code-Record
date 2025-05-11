@@ -1,0 +1,63 @@
+﻿  Test Insert 1.cpp
+C:\Users\aslan\Desktop\YZU Related\Curriculum\Code Record\113-2\Programming in C++\Homework 08\8-5. Insert 1\8-5. Insert 1\1131525 - deque - insert.h(509,25): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+  (編譯來源檔案 'Test%20Insert%201.cpp')
+      C:\Users\aslan\Desktop\YZU Related\Curriculum\Code Record\113-2\Programming in C++\Homework 08\8-5. Insert 1\8-5. Insert 1\1131525 - deque - insert.h(509,25):
+      範本具現化內容 (首先是最舊的) 是
+          C:\Users\aslan\Desktop\YZU Related\Curriculum\Code Record\113-2\Programming in C++\Homework 08\8-5. Insert 1\8-5. Insert 1\Test Insert 1.cpp(101,4):
+          請參考正在進行編譯的函式 樣板 具現化 'void testInsert<__int64>(void)'
+          C:\Users\aslan\Desktop\YZU Related\Curriculum\Code Record\113-2\Programming in C++\Homework 08\8-5. Insert 1\8-5. Insert 1\Test Insert 1.cpp(112,7):
+          請參考正在進行編譯的函式 樣板 具現化 'void testInsert1<__int64>(void)'
+          C:\Users\aslan\Desktop\YZU Related\Curriculum\Code Record\113-2\Programming in C++\Homework 08\8-5. Insert 1\8-5. Insert 1\Test Insert 1.cpp(188,37):
+          請參考正在進行編譯的 類別 樣板 具現化 'deque<__int64>'
+          C:\Users\aslan\Desktop\YZU Related\Curriculum\Code Record\113-2\Programming in C++\Homework 08\8-5. Insert 1\8-5. Insert 1\1131525 - deque - insert.h(403,13):
+          編譯 類別 樣板 成員函式 'DequeIterator<DequeVal<Ty>> deque<Ty>::insert(DequeConstIterator<DequeVal<Ty>>,const __int64 &)' 期間
+          with
+          [
+              Ty=__int64
+          ]
+              C:\Users\aslan\Desktop\YZU Related\Curriculum\Code Record\113-2\Programming in C++\Homework 08\8-5. Insert 1\8-5. Insert 1\Test Insert 1.cpp(188,51):
+              請參閱 'testInsert1' 中 'deque<__int64>::insert' 的第一個參考
+              C:\Users\aslan\Desktop\YZU Related\Curriculum\Code Record\113-2\Programming in C++\Homework 08\8-5. Insert 1\8-5. Insert 1\Test Insert 1.cpp(112,7):
+              請參閱 'testInsert' 中 'testInsert1' 的第一個參考
+  
+C:\Users\aslan\Desktop\YZU Related\Curriculum\Code Record\113-2\Programming in C++\Homework 08\8-5. Insert 1\8-5. Insert 1\1131525 - deque - insert.h(510,27): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+  (編譯來源檔案 'Test%20Insert%201.cpp')
+  
+C:\Users\aslan\Desktop\YZU Related\Curriculum\Code Record\113-2\Programming in C++\Homework 08\8-5. Insert 1\8-5. Insert 1\1131525 - deque - insert.h(512,27): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+  (編譯來源檔案 'Test%20Insert%201.cpp')
+  
+C:\Users\aslan\Desktop\YZU Related\Curriculum\Code Record\113-2\Programming in C++\Homework 08\8-5. Insert 1\8-5. Insert 1\1131525 - deque - insert.h(571,24): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+  (編譯來源檔案 'Test%20Insert%201.cpp')
+      C:\Users\aslan\Desktop\YZU Related\Curriculum\Code Record\113-2\Programming in C++\Homework 08\8-5. Insert 1\8-5. Insert 1\1131525 - deque - insert.h(571,24):
+      範本具現化內容 (首先是最舊的) 是
+          C:\Users\aslan\Desktop\YZU Related\Curriculum\Code Record\113-2\Programming in C++\Homework 08\8-5. Insert 1\8-5. Insert 1\1131525 - deque - insert.h(560,9):
+          編譯 類別 樣板 成員函式 'void deque<__int64>::doubleMapSize(void)' 期間
+              C:\Users\aslan\Desktop\YZU Related\Curriculum\Code Record\113-2\Programming in C++\Homework 08\8-5. Insert 1\8-5. Insert 1\1131525 - deque - insert.h(448,31):
+              請參閱 'deque<__int64>::insert' 中 'deque<__int64>::doubleMapSize' 的第一個參考
+              C:\Users\aslan\Desktop\YZU Related\Curriculum\Code Record\113-2\Programming in C++\Homework 08\8-5. Insert 1\8-5. Insert 1\Test Insert 1.cpp(188,51):
+              請參閱 'testInsert1' 中 'deque<__int64>::insert' 的第一個參考
+              C:\Users\aslan\Desktop\YZU Related\Curriculum\Code Record\113-2\Programming in C++\Homework 08\8-5. Insert 1\8-5. Insert 1\Test Insert 1.cpp(112,7):
+              請參閱 'testInsert' 中 'testInsert1' 的第一個參考
+  
+C:\Users\aslan\Desktop\YZU Related\Curriculum\Code Record\113-2\Programming in C++\Homework 08\8-5. Insert 1\8-5. Insert 1\Test Insert 1.cpp(84,17): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+      C:\Users\aslan\Desktop\YZU Related\Curriculum\Code Record\113-2\Programming in C++\Homework 08\8-5. Insert 1\8-5. Insert 1\Test Insert 1.cpp(84,17):
+      範本具現化內容 (首先是最舊的) 是
+          C:\Users\aslan\Desktop\YZU Related\Curriculum\Code Record\113-2\Programming in C++\Homework 08\8-5. Insert 1\8-5. Insert 1\Test Insert 1.cpp(192,21):
+          請參考正在進行編譯的函式 樣板 具現化 'bool equal<char>(std::deque<char,std::allocator<char>> &,deque<char> &)'
+          C:\Users\aslan\Desktop\YZU Related\Curriculum\Code Record\113-2\Programming in C++\Homework 08\8-5. Insert 1\8-5. Insert 1\Test Insert 1.cpp(929,8):
+          請參考正在進行編譯的函式 樣板 具現化 'void STLDequePrint<char>(std::deque<char,std::allocator<char>> &)'
+  
+C:\Users\aslan\Desktop\YZU Related\Curriculum\Code Record\113-2\Programming in C++\Homework 08\8-5. Insert 1\8-5. Insert 1\Test Insert 1.cpp(85,17): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\aslan\Desktop\YZU Related\Curriculum\Code Record\113-2\Programming in C++\Homework 08\8-5. Insert 1\8-5. Insert 1\Test Insert 1.cpp(65,17): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+      C:\Users\aslan\Desktop\YZU Related\Curriculum\Code Record\113-2\Programming in C++\Homework 08\8-5. Insert 1\8-5. Insert 1\Test Insert 1.cpp(65,17):
+      範本具現化內容 (首先是最舊的) 是
+          C:\Users\aslan\Desktop\YZU Related\Curriculum\Code Record\113-2\Programming in C++\Homework 08\8-5. Insert 1\8-5. Insert 1\Test Insert 1.cpp(930,8):
+          請參考正在進行編譯的函式 樣板 具現化 'void myDequePrint<char>(deque<char> &)'
+  
+C:\Users\aslan\Desktop\YZU Related\Curriculum\Code Record\113-2\Programming in C++\Homework 08\8-5. Insert 1\8-5. Insert 1\Test Insert 1.cpp(66,17): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+  正在產生程式碼
+  493 of 665 functions (74.1%) were compiled, the rest were copied from previous compilation.
+    468 functions were new in current compilation
+    39 functions had inline decision re-evaluated but remain unchanged
+  已完成程式碼產生
+  8-5. Insert 1.vcxproj -> C:\Users\aslan\Desktop\YZU Related\Curriculum\Code Record\113-2\Programming in C++\Homework 08\8-5. Insert 1\x64\Release\8-5. Insert 1.exe

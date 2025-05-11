@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aslan\\Desktop\\YZU Related\\Curriculum\\Code Record\\113-2\\Programming in C\u002B\u002B\\Homework 08\\8-6. Insert 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42F16F44-4321-47F6-93F5-492EF0E0465F}|8-6. Insert 2\\8-6. Insert 2.vcxproj|C:\\Users\\aslan\\Desktop\\YZU Related\\Curriculum\\Code Record\\113-2\\Programming in C\u002B\u002B\\Homework 08\\8-6. Insert 2\\8-6. Insert 2\\s1131525 - deque - insert.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{42F16F44-4321-47F6-93F5-492EF0E0465F}|8-6. Insert 2\\8-6. Insert 2.vcxproj|solutionrelative:8-6. Insert 2\\s1131525 - deque - insert.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42F16F44-4321-47F6-93F5-492EF0E0465F}|8-6. Insert 2\\8-6. Insert 2.vcxproj|C:\\Users\\aslan\\Desktop\\YZU Related\\Curriculum\\Code Record\\113-2\\Programming in C\u002B\u002B\\Homework 08\\8-6. Insert 2\\8-6. Insert 2\\Test Insert 2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{42F16F44-4321-47F6-93F5-492EF0E0465F}|8-6. Insert 2\\8-6. Insert 2.vcxproj|solutionrelative:8-6. Insert 2\\Test Insert 2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "s1131525 - deque - insert.h",
+              "DocumentMoniker": "C:\\Users\\aslan\\Desktop\\YZU Related\\Curriculum\\Code Record\\113-2\\Programming in C\u002B\u002B\\Homework 08\\8-6. Insert 2\\8-6. Insert 2\\s1131525 - deque - insert.h",
+              "RelativeDocumentMoniker": "8-6. Insert 2\\s1131525 - deque - insert.h",
+              "ToolTip": "C:\\Users\\aslan\\Desktop\\YZU Related\\Curriculum\\Code Record\\113-2\\Programming in C\u002B\u002B\\Homework 08\\8-6. Insert 2\\8-6. Insert 2\\s1131525 - deque - insert.h",
+              "RelativeToolTip": "8-6. Insert 2\\s1131525 - deque - insert.h",
+              "ViewState": "AgIAAJcBAAAAAAAAAAAuwJ8BAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-11T02:25:08.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Test Insert 2.cpp",
+              "DocumentMoniker": "C:\\Users\\aslan\\Desktop\\YZU Related\\Curriculum\\Code Record\\113-2\\Programming in C\u002B\u002B\\Homework 08\\8-6. Insert 2\\8-6. Insert 2\\Test Insert 2.cpp",
+              "RelativeDocumentMoniker": "8-6. Insert 2\\Test Insert 2.cpp",
+              "ToolTip": "C:\\Users\\aslan\\Desktop\\YZU Related\\Curriculum\\Code Record\\113-2\\Programming in C\u002B\u002B\\Homework 08\\8-6. Insert 2\\8-6. Insert 2\\Test Insert 2.cpp",
+              "RelativeToolTip": "8-6. Insert 2\\Test Insert 2.cpp",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-11T02:25:17.998Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

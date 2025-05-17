@@ -1,5 +1,9 @@
 # YZU-Curriculum-Code-Record
 
+## 2025. 05. 14
+
+**Update** 【113-2 / Website Practical Design】Ch11. LLM - NPC with LLM
+
 ## 2025. 05. 11
 
 **Update** 【113-2 / Programming in C++】Homework 08

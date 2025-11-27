@@ -1,31 +1,15 @@
 {
     "configurations": [
         {
-            "name": "Win32",
+            "name": "MinGW",
             "includePath": [
-                "${workspaceRoot}",
-                "C:\\MinGW\\include",
-                "C:\\MinGW\\lib\\gcc\\mingw32\\9.2.0\\include",
-                "C:\\MinGW\\lib\\gcc\\mingw32\\9.2.0\\include\\c++"
+                "${workspaceFolder}/**",
+                "C:/cpp/opencv/build-mingw/install/include"
             ],
-            "defines": [
-                "_DEBUG",
-                "UNICODE",
-                "__GNUC__=5",
-                "__cdecl=__attribute__((__cdecl__))"
-            ],
-            "intelliSenseMode": "gcc-x64",
-            "browse": {
-                "path": [
-                    "${workspaceRoot}",
-                    "C:\\MinGW\\include",
-                    "C:\\MinGW\\lib\\gcc\\mingw32\\9.2.0\\include",
-                    "C:\\MinGW\\lib\\gcc\\mingw32\\9.2.0\\include\\c++"
-                ],
-                "limitSymbolsToIncludedHeaders": true,
-                "databaseFilename": ""
-            },
-            "compilerPath": "C:/MinGW/bin/gcc.exe"
+            "compilerPath": "C:/mingw64/bin/g++.exe",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "windows-gcc-x64"
         }
     ],
     "version": 4

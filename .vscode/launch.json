@@ -2,24 +2,20 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "(gdb) Launch",
+            "name": "Run OpenCV",
             "type": "cppdbg",
             "request": "launch",
-            "program": "${workspaceRoot}/${fileBasenameNoExtension}.exe",
-            "args": [],
-            "stopAtEntry": false,
-            "cwd": "${workspaceRoot}",
-            "environment": [],
-            "externalConsole": true,
-            "MIMode": "gdb",
-            "miDebuggerPath": "C:\\MinGW\\bin\\gdb.exe",
-            "setupCommands": [
+            "program": "${workspaceFolder}/main.exe",
+            "cwd": "${workspaceFolder}",
+            "environment": [
                 {
-                    "description": "Enable pretty-printing for gdb",
-                    "text": "-enable-pretty-printing",
-                    "ignoreFailures": true
+                    "name": "PATH",
+                    "value": "C:/cpp/opencv/build-mingw/install/bin;${env:PATH}"
                 }
             ],
+            "externalConsole": true,
+            "MIMode": "gdb",
+            "miDebuggerPath": "C:/mingw64/bin/gdb.exe",
             "preLaunchTask": "build"
         }
     ]

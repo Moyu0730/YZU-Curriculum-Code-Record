@@ -74,10 +74,7 @@
         "thread": "cpp",
         "typeindex": "cpp",
         "typeinfo": "cpp",
-        "variant": "cpp",
-        "xlocmes": "cpp",
-        "xiosbase": "cpp",
-        "ios": "cpp"
+        "variant": "cpp"
     },
     "C_Cpp.errorSquiggles": "Disabled",
     "python.pythonPath": "D:\\python\\python.exe",

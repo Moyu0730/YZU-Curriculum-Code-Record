@@ -4,14 +4,37 @@
         {
             "label": "build",
             "type": "shell",
-            "command": "g++",
+            "command": "C:/mingw64/bin/g++.exe",
             "args": [
-                "-g", "${file}", "-o", "${fileBasenameNoExtension}.exe"
+                "-std=c++17",
+                "-Wall",
+                "-Wextra",
+                "-Wpedantic",
+                "-Wshadow",
+                "-Wfatal-errors",
+                // "-D_GLIBCXX_DEBUG",
+                // "-D_GLIBCXX_SANITIZE_VECTOR",
+                "-g",
+                "-O2",
+                "${file}",
+                "-o",
+                "${fileBasenameNoExtension}.exe",
+
+                // ===== OpenCV Include & Lib Path =====
+                "-I", "C:/cpp/opencv/build-mingw/install/include",
+                "-L", "C:/cpp/opencv/build-mingw/install/x64/mingw/lib",
+
+                // ===== OpenCV Libraries (核心 + 影像處理 + IO) =====
+                "-lopencv_core453",
+                "-lopencv_imgproc453",
+                "-lopencv_imgcodecs453"
+                // ====================================
             ],
             "group": {
                 "kind": "build",
                 "isDefault": true
-            }
+            },
+            "problemMatcher": "$gcc"
         }
     ]
 }
